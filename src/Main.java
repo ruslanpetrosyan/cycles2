@@ -94,5 +94,6 @@ public class Main {
             result = variable * variableTwo;
             System.out.println(result);
         }
+        System.out.println("Прошу проверить ДЗ");
     }
 }
